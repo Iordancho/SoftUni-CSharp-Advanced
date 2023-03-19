@@ -1,2 +1,2 @@
-# SoftUni-CSharp-Advanced-
+# SoftUni-CSharp-Advanced
 Excersises from SoftUni C#-Advanced
