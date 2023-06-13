@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0iAsKBypcM5hStISYi3nvb54N8JsIWaM7JlK8gnwYA2LK2qHxhRiPBzv8Djg8AmkiAqpWlz+kMHZsKttBUYeIw==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\01. Stacks and Queues - Lab\\3. Simple Calculator\\3. Simple Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

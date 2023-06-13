@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1GqEOL0FtUqgFjgu2KSh9hlhc2popA2Ft2oBn1nmr4cNyIzmZ8Kc1iAN4j0O4lId/T/v1nt88lHQGrGQgKH2+Q==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\01. Stacks and Queues - Lab\\6. Supermarket\\6. Supermarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

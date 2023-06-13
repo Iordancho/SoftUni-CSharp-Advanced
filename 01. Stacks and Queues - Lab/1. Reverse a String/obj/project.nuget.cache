@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLRvjiNqTiIKIP5PkLftfX6cx4rfpniksW0f2aTpsRe4vYiuQYT5HnO6SmrK+pEXfE6eRn2uzQQbwinmWvSZfg==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\01. Stacks and Queues - Lab\\1. Reverse a String\\1. Reverse a String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
