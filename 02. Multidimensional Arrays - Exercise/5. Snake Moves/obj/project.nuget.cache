@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a7SQ3Qjy9lJj3BvsJokJG2dDk/hsVel0rdl3+9uGnDBxvBNzjEBY3FZDH0tfz4H+1WfnQz431GSEy8/ieM/O7w==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\02. Multidimensional Arrays - Exercise\\5. Snake Moves\\05. Snake Moves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUPe0vraGEonUinaouz542da427lE4dNcB6iditl9+V3qhp4t5QlaSv52iXDRkWaYozbpCFZfpq48SQnuOZwRQ==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\02. Multidimensional Arrays - Exercise\\1. Diagonal Difference\\01. Diagonal Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
