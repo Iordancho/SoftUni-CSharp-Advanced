@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ma3tS30Ju9nlSoGxKnOCXlb0Tb7ZBiB1i4ADfZS8AwBKqM20125nS0uvsicoOMYhsmFJMF/KUbfxz7QUMRMLqg==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\02. Multidimensional Arrays - Exercise\\7. Knight Game\\07. Knight Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

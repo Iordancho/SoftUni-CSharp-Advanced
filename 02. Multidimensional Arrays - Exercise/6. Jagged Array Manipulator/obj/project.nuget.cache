@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SjOU/6/dA7Dyry2g0+aMBNdz7WPPDgyMT6hwkVCQYGbyDniSYIZlO9NungfDx5fhNnIgL5MviDs9mp/1B/91rg==",
+  "success": true,
+  "projectFilePath": "D:\\vs 2019\\02. Multidimensional Arrays - Exercise\\6. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дани\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
